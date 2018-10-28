@@ -1,6 +1,8 @@
 # dsp
 Digital Signal Processing - Energy Compaction in DFT, DCT and Haar Transform
+
 Dependencies :
+
 1.numpy
 
 2.cmath
