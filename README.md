@@ -12,3 +12,5 @@ Dependencies :
 4.random
 
 5.matplotlib
+
+6.scipy
